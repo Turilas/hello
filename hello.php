@@ -5,9 +5,9 @@
         <title>Hello</title>
     </head>
     <body>
-        <h1>Hello</h1>
+        <h1>Hello World!</h1>
         <p>
-            World!
+            Now with SSH!
         </p>
     </body>
 </html>
